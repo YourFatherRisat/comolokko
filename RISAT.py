@@ -75,7 +75,7 @@ class Main:
 		print("%s [%s•%s] %sVERSION   : %s1.1"%(G,R,G,B,G))
 		print("")
 		print("\n    \033[0;92m            UID🔥 CLONING🔥 \033[0;97m ")
-		print("%s [%s1%s]%s CRACK RANDOM FB ID 2008-11 {JUST NOW} %s(FREE)"%(G,R,G,Y,B))
+		print("%s [%s1%s]%s CRACK RANDOM FB ID 2008-11 {JUST NOW} %s(🥵)"%(G,R,G,Y,B))
 		tanya = input("    \033[0;91m(#)\033[0;92m CHOOSE : ")
 		if tanya in ["", " "]:
 			Main()
